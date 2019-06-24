@@ -11,8 +11,10 @@ The goal of this project is to see if fifa world cup results can be predicted us
 3. World Cup 2018 schedule
 
 ### Statistics:
-![Run](Images/player_stats_distribution.png) ![Run](Images/training_set_outcomes.png)
-![Run](Images/goal_diff_distribution.png) ![Run](Images/spain_vs_iran.png)
+![Run](Images/player_stats_distribution.png) 
+![Run](Images/training_set_outcomes.png)
+![Run](Images/goal_diff_distribution.png) 
+![Run](Images/spain_vs_iran.png)
 ![Run](Images/spain_vs_portugal.png)
 
 ### Winner Probabilities: 
