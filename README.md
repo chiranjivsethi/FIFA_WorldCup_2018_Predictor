@@ -48,10 +48,3 @@ Results from running the world cup simulation 1000 times
 * Peru 4
 * Iran 3
 * Costa Rica 2
-
-#### To Do
-* Rebuilt whole model with 2019 Data Set
-* 2018 Analysis
-* 2019 Analysis
-* 2018 and 2019 Dream Team
-* Improve Model
